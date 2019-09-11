@@ -1,0 +1,207 @@
+html, body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.navbar
+{
+	padding: 8rem;
+}
+
+.navbar-nav li
+{
+	padding-right: 20px;
+}
+
+.nav-link
+{
+	font-size: 1.1em !important;
+}
+
+
+#section-a
+{
+	width: 100%;
+	height: auto;
+	background: #f2f2f2;
+	padding-top: 5%;
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+.cont
+{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	width: 70%;
+	margin-left: 15%;
+	padding-top: 40px;
+}
+
+.content h3
+{
+	font-size: 16px;
+}
+
+.content p
+{
+	margin-top: 20px;
+	line-height: .5em;
+	font-weight: 10px;
+}
+
+.content a
+{
+	margin-top: 20px;
+	color: #121212;
+	border-bottom: 1px solid #121212;
+}
+
+.content a:hover
+{
+	border: none;
+	color: #000;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.content1 a
+{
+	margin-top: 20px;
+	color: #121212;
+	border-bottom: 1px solid #121212;
+	text-decoration: none;
+}
+
+.content1 a:hover
+{
+	border: none;
+	color: #000;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.content1 p
+{
+	margin-top: 20px;
+	line-height: .5em;
+}
+
+.content1 h3
+{
+	font-size: 16px;
+}
+
+.content1
+{
+	border-right: 1px solid #d5d5d5;
+	border-left: 1px solid #d5d5d5;
+}
+
+#section-b
+{
+	width: 100%;
+	height: auto;
+}
+
+.griq
+{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	width: 100%;
+	padding-left: 7%;
+	padding-top: 5%;
+}
+
+.griq1
+{
+	
+	padding-top: 6%;
+	padding-left: 7%;
+}
+
+.grids
+{
+	width: auto;
+	height: 370px;
+	line-height: 1.5em;
+}
+
+.grids h3
+{
+	padding-top: 18%;
+	font-size: 20px;
+}
+
+.bf
+{
+	content: '';
+    width: 100px;
+    display: block;
+    margin-top: 16%;
+    border-top: 1px solid #121212
+}
+
+.bf1
+{
+	content: '';
+    width: 100px;
+    display: block;
+    margin-top: 12%;
+    border-top: 1px solid #121212
+}
+.cv
+{
+	padding-top: 3%;
+	line-height: 1.5em;
+}
+
+.cm
+{
+	padding-top: 4%;
+	line-height: 1.5em;
+}
+
+#section-c
+{
+	width: 100%;
+	height: auto;
+	background: #f2f2f2;
+	margin-top: 8%;
+	padding-top: 5%;
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+.content2 p
+{
+	margin-top: 20px;
+	line-height: 1.5em;
+}
+
+#store
+{
+	width: 30px;
+}
+
+footer
+{
+	background: #000;
+	color: #fff;
+	padding-top: 30px;
+}
+
+hr.light
+{
+	width: 75%;
+	border-top: 1px solid #d5d5d5;
+}
+
+hr.light-100
+{
+	width: 100%;
+	border-top: 1px solid #d5d5d5;
+}
+
