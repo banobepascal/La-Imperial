@@ -7,7 +7,7 @@ $(function(){
 		$(".n1").css("background-color","transparent");
 		$(".n3").css("background-color","transparent");
 		$(".n4").css("background-color","transparent");
-	});
+	});   
 
 	$(".n3").click(function(){
 		$("#rod2").animate({opacity:"0"});
