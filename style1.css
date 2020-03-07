@@ -1,12 +1,22 @@
+html,
 body {
   height: 100%;
   width: 100%;
   color: #222;
   background: #f2f2f2;
+  font-family: "Ubuntu", sans-serif;
+  padding: 0;
+  margin: 0;
 }
 
-.navbar {
-  padding: 8rem;
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  background: #000;
 }
 
 .navbar-brand {
@@ -42,8 +52,16 @@ body {
   transform: translateY(-50%);
 }
 
+.card-title {
+  font-size: 1em;
+}
+
 .gif {
   max-width: 100%;
+}
+
+section {
+  font-family: "Ubuntu", sans-serif;
 }
 
 footer {
@@ -91,12 +109,13 @@ hr.light-100 {
 }
 
 #star {
+  fill: #ffe234;
   width: 10px;
   margin-top: -18px;
 }
 
 #star1 {
-  fill: #f2f2f2;
+  fill: #ffe234;
   width: 10px;
   margin-top: -18px;
 }
