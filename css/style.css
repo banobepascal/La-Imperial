@@ -150,7 +150,7 @@ nav {
 
 .brand1 {
   height: 770px;
-  background: url(img/cover.jpg);
+  background: url(../img/cover.jpg);
   text-align: center;
   padding-top: 50%;
 }
@@ -181,7 +181,7 @@ nav {
 .brand3 {
   height: 770px;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(img/double2.png);
+    url(../img/double2.png);
   text-align: center;
   background-size: cover;
   padding-top: 50%;
